@@ -1,0 +1,24 @@
+{
+	"environments": {
+		"PROD": {
+			"restBaseUrl": "http://localhost:9093/projects/",
+			"restBaseUrlItsv": "http://localhost:9093/itsv/",
+			"restBaseUrlItd": "http://localhost:9093/jiraitd/",
+			"restEvaCoreUrl": "http://localhost:9093/core/",
+			"restEvaCore2Url": "http://localhost:9093/core2/",
+			"liveLinkBaseUrl": "http://localhost:9093/",
+			"liveLinkMainFolderId": "154171571",
+			"liveLinkTrashId": "161587894"
+		},
+		"TEST": {
+			"restBaseUrl": "http://localhost:9093/projects/",
+			"restBaseUrlItsv": "http://localhost:9093/itsv/",
+			"restBaseUrlItd": "http://localhost:9093/jiraitd/",
+			"restEvaCoreUrl": "http://localhost:9093/core/",
+			"restEvaCore2Url": "http://localhost:9093/core2/",
+			"liveLinkBaseUrl": "http://localhost:9093/",
+			"liveLinkMainFolderId": "154172678",
+			"liveLinkTrashId": "161556947"
+		}
+	}
+}
